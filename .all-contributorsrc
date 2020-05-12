@@ -1,34 +1,3 @@
 {
-  "files": [
-    "CONTRIBUTORS.md"
-  ],
-  "projectName": ".github",
-  "projectOwner": "pahimar",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "skipCi": true,
-  "contributors": [
-    {
-      "login": "pahimar",
-      "name": "Rob Davis",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/1450090?v=4",
-      "profile": "https://www.pahimar.dev/",
-      "contributions": [
-        "infra",
-        "test",
-        "code",
-        "projectManagement"
-      ]
-    },
-    {
-      "login": "jakebolam",
-      "name": "Jake Bolam",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/3534236?v=4",
-      "profile": "https://jakebolam.com",
-      "contributions": [
-        "projectManagement"
-      ]
-    }
-  ],
-  "contributorsPerLine": 7
+  "files": ["CONTRIBUTORS.md"]
 }
