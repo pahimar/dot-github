@@ -1,0 +1,6 @@
+# Java sources
+*.java          text diff=java
+
+# These files are text and should be normalized (Convert crlf => lf)
+  
+*               text=auto eol=lf
