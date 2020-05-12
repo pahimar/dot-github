@@ -1,3 +1,24 @@
 {
-  "files": ["CONTRIBUTORS.md"]
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
+  "projectName": ".github",
+  "projectOwner": "pahimar",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "pahimar",
+      "name": "Rob Davis",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1450090?v=4",
+      "profile": "https://www.pahimar.dev/",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
