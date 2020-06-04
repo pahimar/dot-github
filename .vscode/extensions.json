@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "coenraads.bracket-pair-colorizer",
+    "davidanson.vscode-markdownlint",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "oderwat.indent-rainbow",
+    "streetsidesoftware.code-spell-checker",
+    "visualstudioexptteam.vscodeintellicode",
+    "wayou.vscode-todo-highlight",
+    "vsls-contrib.gistfs",
+    "shan.code-settings-sync",
+    "github.vscode-pull-request-github",
+    "yzhang.markdown-all-in-one",
+    "mohsen1.prettify-json"
+  ]
+}
