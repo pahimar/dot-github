@@ -76,6 +76,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.pahimar.dev/"><img src="https://avatars2.githubusercontent.com/u/1450090?v=4" width="100px;" alt=""/><br /><sub><b>Rob Davis</b></sub></a><br /><a href="https://github.com/pahimar/dot-github/commits?author=pahimar" title="Documentation">📖</a> <a href="https://github.com/pahimar/dot-github/commits?author=pahimar" title="Code">💻</a></td>
+  </tr>
+</table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->

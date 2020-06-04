@@ -1,5 +1,18 @@
 {
   "projectName": "dot-github",
   "projectOwner": "pahimar",
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "repoType": "github",
+  "contributors": [
+    {
+      "login": "pahimar",
+      "name": "Rob Davis",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1450090?v=4",
+      "profile": "https://www.pahimar.dev/",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    }
+  ]
 }
