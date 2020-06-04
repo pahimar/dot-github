@@ -13,23 +13,23 @@
 
 One Paragraph of project description goes here  
 
-## :tada: Features
+## Features
 
-## :rocket: Usage
+## Usage
 
-## :computer: Releases
+## Releases
 
-## :heart: Contributing
+## Contributing
 
 Contributions are vital to the health and longevity of open source projects, and they are always welcome here! Please check out the [Contributing guide](./.github/CONTRIBUTING.md) as well as the [setup guide](./.github/PROJECT_SETUP.md) to get started.
 
-## :heart_eyes: Support
+## Support
 
 If you enjoy my work and would like to support it, please feel free to [become a patron](https://www.patreon.com/pahimar) of mine on Patreon. This is by **no** means necessary - if you got something out of any of my projects that is more than enough for me!
 
 [![Become a patron](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/pahimar)
 
-## :sparkles: Contributors
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -44,6 +44,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors)
 specification. Contributions of any kind welcome!
 
-## :scroll: License
+## License
 
 This project is provided under the [MIT License](LICENSE.md) &copy; 2020 Rob Davis.
