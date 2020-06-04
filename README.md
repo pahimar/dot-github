@@ -6,7 +6,7 @@
 [![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-blue?style=for-the-badge)](./.github/CODE_OF_CONDUCT.md)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue?style=for-the-badge)](./.github/CONTRIBUTING.md)
 [![GitHub forks](https://img.shields.io/github/forks/pahimar/dot-github?color=blue&style=for-the-badge)](https://github.com/pahimar/dot-github/network/members)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/pahimar/dot-github?color=blue&style=for-the-badge)](https://github.com/pahimar/dot-github/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pahimar/dot-github?style=for-the-badge)](https://github.com/pahimar/dot-github/releases)
 
 Just another generic GitHub repository template for all :smile:
 
