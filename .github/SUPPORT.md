@@ -3,9 +3,9 @@
 > This project has a [code of conduct](./CODE_OF_CONDUCT.md).
 > By interacting with this repository, organization, or community you agree to abide by its terms.
 
-Hi! :wave:
+Hi! :wave: We're excited that you're using this project and we’d love to help. To help us help you, please read through the following guidelines.
 
-We're excited that you're using
+Please understand that the people involved with this project often do so for fun, next to their day job; you are not entitled to free customer service.
 
 ## Questions
 
@@ -20,7 +20,7 @@ Spending the extra time up front can help save everyone time in the long run.
   * What problem are you encountering and what steps have you taken to try and fix it?
   * Is there a concept you’re not understanding?
 * Have you tried checking out the documentation?
-* Check out the tips on [requesting support](https://github.com/pahimar/dot-github/blob/master/.github/CONTRIBUTING.md#request-support) in the contributing guide
+* Check out the tips on [requesting support](./CONTRIBUTING.md#request-support) in the contributing guide
 * The more time you put into asking your question, the better we can help you
 
 ## Contributions
