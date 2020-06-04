@@ -1,3 +1,32 @@
-https://help.github.com/en/github/building-a-strong-community/adding-support-resources-to-your-project#adding-support-resources-to-your-project
+# Support
 
-https://github.com/get-alex/.github/blob/master/support.md
+> This project has a [code of conduct](./CODE_OF_CONDUCT.md).
+> By interacting with this repository, organization, or community you agree to abide by its terms.
+
+Hi! :wave:
+
+We're excited that you're using
+
+## Questions
+
+Help us help you!
+
+Spending time framing a question and adding support links or resources makes it much easier for us to help. It’s easy to fall into the trap of asking something too specific when you’re close to a problem. Then, those trying to help you out have to spend a lot of time asking additional questions to understand what you are hoping to achieve.
+
+Spending the extra time up front can help save everyone time in the long run.
+
+* Try to define what you need help with:
+  * Is there something in particular you want to do?
+  * What problem are you encountering and what steps have you taken to try and fix it?
+  * Is there a concept you’re not understanding?
+* Have you tried checking out the documentation?
+* Check out the tips on [requesting support](https://github.com/pahimar/dot-github/blob/master/.github/CONTRIBUTING.md#request-support) in the contributing guide
+* The more time you put into asking your question, the better we can help you
+
+## Contributions
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) on how to contribute.
+
+## License
+
+This project is provided under the [MIT License](../LICENSE.md) &copy; 2020 Rob Davis.
