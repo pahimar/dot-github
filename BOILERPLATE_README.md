@@ -2,10 +2,10 @@
 
 ![Made with some language](https://img.shields.io/badge/made%20with-some%20language-blue?style=for-the-badge)
 ![Built with Love](https://img.shields.io/badge/built%20with-love-red?style=for-the-badge)
-[![Project License](https://img.shields.io/github/license/YOUR_NAME/YOUR_REPO?style=for-the-badge&color=blue)](./LICENSE.md)
+[![Project License](https://img.shields.io/github/license/YOUR_GITHUB_NAME/YOUR_GITHUB_REPO?style=for-the-badge&color=blue)](./LICENSE.md)
 [![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-blue?style=for-the-badge)](./.github/CODE_OF_CONDUCT.md)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue?style=for-the-badge)](./.github/CONTRIBUTING.md)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/YOUR_NAME/YOUR_REPO?color=blue&style=for-the-badge)](https://github.com/YOUR_NAME/YOUR_REPO/releases)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/YOUR_GITHUB_NAME/YOUR_GITHUB_REPO?color=blue&style=for-the-badge)](https://github.com/YOUR_GITHUB_NAME/YOUR_GITHUB_REPO/releases)
 
 **TODO:** One liner about the project goes here  
 
@@ -33,14 +33,14 @@ Contributions are vital to the health and longevity of open source projects, and
 
 Feel free to join our community!
 
-![Follow me on Twitter](https://img.shields.io/twitter/follow/YOUR_NAME?style=for-the-badge&logo=twitter&logoColor=white&color=blue)
-![Join us on Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER?label=discord&style=for-the-badge&logo=discord&logoColor=white&color=blue)
+![Follow me on Twitter](https://img.shields.io/twitter/follow/YOUR_TWITTER_NAME?style=for-the-badge&logo=twitter&logoColor=white&color=blue)
+![Join us on Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?label=discord&style=for-the-badge&logo=discord&logoColor=white&color=blue)
 
 ## Sponsorship
 
-If you enjoy my work and would like to support it, please feel free to [become a patron](https://www.patreon.com/YOUR_NAME) of mine on Patreon. This is by **no** means necessary - if you got something out of any of my projects that is more than enough for me!
+If you enjoy my work and would like to support it, please feel free to [become a patron](https://www.patreon.com/YOUR_PATREON_NAME) of mine on Patreon. This is by **no** means necessary - if you got something out of any of my projects that is more than enough for me!
 
-[![Become a patron](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/YOUR_NAME)
+[![Become a patron](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/YOUR_PATREON_NAME)
 
 ## Contributors
 
