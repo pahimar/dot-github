@@ -1,24 +1,45 @@
 # dot-github
 
-<p align="center">
-    <img alt="Made on GitHub" src="https://img.shields.io/badge/made%20on-GitHub-blue?style=for-the-badge" />
-    <img alt="Built with Love" src="https://img.shields.io/badge/built%20with-love-red?style=for-the-badge" />
-</p>
-
-![Made on GitHub](https://img.shields.io/badge/made%20on-GitHub-blue?style=for-the-badge)
+![Made for GitHub](https://img.shields.io/badge/made%20for-GitHub-blue?style=for-the-badge)
 ![Built with Love](https://img.shields.io/badge/built%20with-love-red?style=for-the-badge)
 [![Project License](https://img.shields.io/github/license/pahimar/dot-github?style=for-the-badge&color=blue)](./LICENSE.md)
 [![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-blue?style=for-the-badge)](./.github/CODE_OF_CONDUCT.md)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue?style=for-the-badge)](./.github/CONTRIBUTING.md)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/pahimar/dot-github?color=blue&style=for-the-badge)](https://github.com/pahimar/dot-github/releases)
 
-One Paragraph of project description goes here  
+Just a generic GitHub repository template for all
+
+## Overview
+
+In [June of 2019](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) GitHub announced repository templates, which allow for people/organizations to use boilerplate repositories for their projects (and cut out a lot of the initial overhead in a new project).
 
 ## Features
 
+- [Community Code of Conduct](./.github/CODE_OF_CONDUCT.md)
+  - Adapted from the [Contributor Covenant](https://www.contributor-covenant.org)
+- In-depth [Contribution](./.github/CONTRIBUTING.md) guide
+- Support for [all-contributors](https://allcontributors.org/)
+- [Support](./.github/SUPPORT.md) documentation
+- Templates for;
+  - [Bug Reports](./.github/ISSUE_TEMPLATE/BUG_REPORT.md)
+  - [Feature Requests](.github/ISSUE_TEMPLATE/FEATURE_REQUEST.md)
+  - [Pull Requests](./.github/PULL_REQUEST_TEMPLATE.md)
+- Pre-configured [editorconfig](https://editorconfig.org/), [gitattributes](https://www.git-scm.com/docs/gitattributes), and [gitingore](https://git-scm.com/docs/gitignore) files
+
 ## Usage
 
+The steps to use this template repository in your own projects are;
+
+1. [Create a new repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) using this template
+2. Rename this `README.md` file to something else, such as `TEMPLATE_README.md`
+3. Rename the provided `BOILERPLATE_README.md` to `README.md`
+4. Replace instances of `YOUR_*` in your new `README.md` to customize the [Shields](https://shields.io/), social links, etc to yourself and your project
+5. Customize the rest of the repository to your hearts content
+6. Start creating!
+
 ## Releases
+
+All releases can be found on the [Releases](https://github.com/pahimar/dot-github/releases) page for this project.
 
 ## Contributing
 
