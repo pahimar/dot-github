@@ -2,7 +2,7 @@
 
 ![Made for GitHub](https://img.shields.io/badge/made%20for-GitHub-blue?style=for-the-badge)
 ![Built with Love](https://img.shields.io/badge/built%20with-love-red?style=for-the-badge)
-[![Project License](https://img.shields.io/github/license/pahimar/dot-github?style=for-the-badge&color=blue)](./LICENSE.md)
+![Project License](https://img.shields.io/github/license/pahimar/dot-github?style=for-the-badge&color=blue)
 [![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-blue?style=for-the-badge)](./.github/CODE_OF_CONDUCT.md)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue?style=for-the-badge)](./.github/CONTRIBUTING.md)
 [![GitHub forks](https://img.shields.io/github/forks/pahimar/dot-github?color=blue&style=for-the-badge)](https://github.com/pahimar/dot-github/network/members)
