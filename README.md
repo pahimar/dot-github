@@ -45,6 +45,7 @@ The steps to use this template repository in your own projects are;
    4. `YOUR_TWITTER_NAME` - Your Twitter user name (ie, `twitter.com/<your_name>`)
    5. `YOUR_PATREON_NAME` - Your Patreon name (ie, `patreon.com/<your_name>`)
    6. `YOUR_DISCORD_SERVER_ID` - Your Discord server id (follow the steps [in this video](https://vimeo.com/364220040) to set up widget permissions on your server and get your server id)
+   7. `YOUR_DISCORD_INVITE_LINK` - Invite link to your Discord server [steps here](https://support.discord.com/hc/en-us/articles/204155938-How-do-I-invite-friends-to-my-server-)
 5. Customize the rest of the repository to your hearts content
 6. Start creating!
 
