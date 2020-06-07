@@ -61,8 +61,8 @@ Contributions are vital to the health and longevity of open source projects, and
 
 Feel free to join our community!
 
-![Follow me on Twitter](https://img.shields.io/twitter/follow/pahimar?style=for-the-badge&logo=twitter&logoColor=white&color=blue)
-![Join us on Discord](https://img.shields.io/discord/134733695373410304?label=discord&style=for-the-badge&logo=discord&logoColor=white&color=blue)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/pahimar?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/pahimar/)
+[![Join us on Discord](https://img.shields.io/discord/134733695373410304?label=discord&style=for-the-badge&logo=discord&logoColor=white&color=blue)](https://discord.gg/s7Jxz6Y)
 
 ## Sponsorship
 
