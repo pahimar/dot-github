@@ -1,6 +1,6 @@
 {
   "recommendations": [
-    "coenraads.bracket-pair-colorizer",
+    "coenraads.bracket-pair-colorizer-2",
     "davidanson.vscode-markdownlint",
     "eamodio.gitlens",
     "editorconfig.editorconfig",
@@ -12,6 +12,6 @@
     "shan.code-settings-sync",
     "github.vscode-pull-request-github",
     "yzhang.markdown-all-in-one",
-    "mohsen1.prettify-json"
+    "eriklynd.json-tools"
   ]
 }
