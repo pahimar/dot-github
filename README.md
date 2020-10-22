@@ -64,12 +64,6 @@ Feel free to join our community!
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/pahimar?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/pahimar/)
 [![Join us on Discord](https://img.shields.io/discord/134733695373410304?label=discord&style=for-the-badge&logo=discord&logoColor=white&color=blue)](https://discord.gg/s7Jxz6Y)
 
-## Sponsorship
-
-If you enjoy my work and would like to support it, please feel free to [become a patron](https://www.patreon.com/pahimar) of mine on Patreon. This is by **no** means necessary - if you got something out of any of my projects that is more than enough for me!
-
-[![Become a patron](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/pahimar)
-
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
